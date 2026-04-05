@@ -27,7 +27,35 @@ const projects = [
         tags:["javascripts",'react','tailwind css'],
         demoUrl:"https://smart-with-ai-bot.netlify.app/",
         githubUrl:"https://github.com/roligupta123/AI-ChatBox"
+    },
+     {
+        id:4,
+        title:"E-Commerce Website",
+        description:"A modern e-commerce website built with Python and Django, featuring a responsive design and seamless shopping experience.",
+        image:"projects/e-commerce.png",
+        tags:["Python",'Django','CSS'],
+        demoUrl:"https://radhikagupta.pythonanywhere.com/",
+        githubUrl:"https://github.com/roligupta123/E-Commerce-Website"
+    },
+    {
+        id:5,
+        title:"Book Library",
+        description:"A modern book library website built with Python and Django, featuring a responsive design and seamless browsing experience.",
+        image:"projects/book-library.png",
+        tags:["Python",'Django','CSS'],
+        demoUrl:"https://guptaroli123.pythonanywhere.com/",
+        githubUrl:"https://github.com/roligupta123/Book-Library"
+    },
+    {
+        id:6,
+        title:"Animated Portfolio",
+        description:"A modern animated portfolio website built with React and Tailwind CSS, featuring a responsive design and seamless browsing experience.",
+        image:"projects/animated-portfolio.png",
+        tags:["javascripts",'react','tailwind css'],
+        demoUrl:"https://rolianimatedportfolio.netlify.app/",
+        githubUrl:"https://github.com/roligupta123/animated-portfolio"
     }
+    
 
 ]
 
